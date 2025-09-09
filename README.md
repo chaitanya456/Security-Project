@@ -40,7 +40,7 @@ Ensure the following are installed before you begin:
 
 Follow these steps to set up and run the project:
 
-1) git clone https://github.com/psu-cse597-s25/heartbleed-analysis.git
+1) git clone <git_url_specified>
 
 2) cd to the working directory. Here it is Demo/xxeExploit
 
